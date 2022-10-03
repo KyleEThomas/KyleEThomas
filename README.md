@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @KyleEThomas
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning python and R
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in data science and data analytics
+- 🌱 I’m currently studying python and R
+
 
 <!---
 KyleEThomas/KyleEThomas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
