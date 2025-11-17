@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KyleEThomas
+- 👋 Hi, I’m Kyle Thomas
 - 👀 I’m interested in data science and data analytics
 - 🌱 I’m currently studying python and R
 
